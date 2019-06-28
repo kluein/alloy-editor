@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "Sekundär",
 	"success": "Lyckades",
 	"table": "Infoga tabell",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "Videouppspelning är inaktiverat i redigeringsläge",
 	"warning": "Varning",
 	"white": "Vit"

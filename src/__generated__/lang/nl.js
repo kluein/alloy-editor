@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "Secundair",
 	"success": "Geslaagd",
 	"table": "Tabel invoegen",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "Video afspelen is uitgeschakeld in de bewerkingsmodus",
 	"warning": "Waarschuwing",
 	"white": "Wit"

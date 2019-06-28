@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "セカンダリ",
 	"success": "成功",
 	"table": "テーブルを挿入",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "編集モードでは動画再生は無効化されています",
 	"warning": "警告",
 	"white": "白"

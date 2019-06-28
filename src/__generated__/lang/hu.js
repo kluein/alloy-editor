@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "Másodlagos",
 	"success": "Sikerült",
 	"table": "Táblázat behelyezése",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "Szerkesztési módban nem engedélyezett a videó lejátszása",
 	"warning": "Figyelmeztetés",
 	"white": "Fehér"

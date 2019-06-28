@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "ثانوي",
 	"success": "تم بنجاح",
 	"table": "إدراج جدول",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "يتم تعطيل عرض الفيديو أثناء وضع التحرير",
 	"warning": "تحذير",
 	"white": "أبيض"

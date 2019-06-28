@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "Toissijainen",
 	"success": "Onnistui",
 	"table": "Lisää Taulukko",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "Videotoisto on estetty muokkaustilan aikana",
 	"warning": "Varoitus",
 	"white": "Valkoinen"

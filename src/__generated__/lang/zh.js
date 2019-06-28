@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "辅助",
 	"success": "成功",
 	"table": "插入表",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "视频播放功能在处于编辑模式时将禁用",
 	"warning": "警告",
 	"white": "白色"

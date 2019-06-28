@@ -92,6 +92,7 @@ AlloyEditor.Strings = {
 	"secondary": "Secundari",
 	"success": "Fet",
 	"table": "Insereix taula",
+	"video": "Insert Video",
 	"videoPlaybackDisabled": "La reproducció del vídeo està deshabilitada durant el mode d'edició",
 	"warning": "Avís",
 	"white": "Blanc"
